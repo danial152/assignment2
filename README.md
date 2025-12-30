@@ -5,6 +5,7 @@ Purpose of the Vehicle Management System is to make it easier to manage vehicles
 Inheritance was used by connecting vehicles to the class Vehicle. 
 Composition was done with every Vehicle object having a Driver object. 
 Abstraction was used by making Vehicle class abstract and it having 2 abstract startEngine and stopEngine functions.
+
 -------------------
 B. Class Hierarchy
 
@@ -15,6 +16,7 @@ Vehicle also had a displayinfo method that worked on subclasses.
 Overridden methods in this case were abstract methods startEngine() and stopEngine(). Each subclass had its own implementation of this method that allowed this same method to work differently on each class
 
 Access modifiers: *protected* was used in Vehicle so that only subclasses could use those fields. *private* is used to protect data. *public* used for methods so that everything can access it.
+
 -----------------------
 C. Instructions to run
 1. install java
@@ -22,6 +24,7 @@ C. Instructions to run
 3. run these commands:
    1. javac *.java
    2. java Main
+
 -------------------
 D. Reflection
 Inheritance simplified the design by allowing to define shared vehicle fields and methods only once, making it easier to read and more accessible. 
