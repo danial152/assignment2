@@ -1,21 +1,3 @@
-A. Project Overview
-• Purpose and description of the Vehicle Management System
-• Summary of inheritance, composition, and abstraction usage
-B. Class Hierarchy
-• Explanation of the superclass and subclasses
-• Description of overridden methods
-• Explanation of access modifiers used
-C. Instructions to Compile and Run
-Example:
-javac *.java
-java Main
-D. Screenshots
-• Program output demonstrating correct behavior of vehicles and drivers
-E. Reflection Section
-Write 1–2 paragraphs discussing:
-• How inheritance simplified the design
-• How method overriding helped customize behavior
-• Challenges faced when using protected and default access modifiers
 
 A. Project Overview
 
